@@ -1,10 +1,13 @@
 # Hello, I'm Pavan Kushana
 
-I'm a Master's student in Computer Science for Digital Media at Bauhaus-Universität Weimar. Before moving to Germany I did an IT operations internship at Sears in Hyderabad, where I worked on AWS. That's where I got into cloud.
+I'm a Master's student in Computer Science for Digital Media at Bauhaus-Universität Weimar. Before moving to Germany I did an IT Operations internship at Sears in Hyderabad, where I worked on AWS. That's where I got into cloud.
 
-I'm looking for a working student or internship role in cloud, DevOps, Linux or Python automation, anywhere in Germany. Here's my [current CV](https://drive.google.com/file/d/1MyC1To6bwyH9NU4O5HQjZyUAb7wyPk99/view?usp=sharing).
+I'm looking for a working student or internship role in cloud, DevOps, Linux or Python automation, anywhere in Germany. Here's my [current CV](https://drive.google.com/file/d/1MyC1To6bwyH9NU4O5HQjZyUAb7wyPk99/view?usp=sharing). There's more about me and my work on my portfolio, [pavankushana.com](https://pavankushana.com).
 
 ## Projects
+
+**[lifeguard-agent](https://github.com/PavanKushana/lifeguard-agent)**
+An AI on-call engineer for small teams that run their app in Docker on one server. When something breaks, it looks at the containers, logs and disk, finds the cause and suggests fixes, and nothing changes until a person approves. I built it solo with AI-assisted development for the Nebius x NVIDIA Global AI Hackathon (October 2026). Live at [lifeguard-agent.com](https://lifeguard-agent.com).
 
 **[debate-arena-llm-judge](https://github.com/PavanKushana/debate-arena-llm-judge)**
 A judge that decides who won a debate between two LLMs. A teammate and I built the logic part, which checks how well each argument holds up. My Master's project.
@@ -25,4 +28,4 @@ AWS · Linux · Python · Bash · Git · FastAPI · Hugging Face · Ollama
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/pavankushana) · pavansai.kushana@gmail.com
+[Portfolio](https://pavankushana.com) · [LinkedIn](https://linkedin.com/in/pavankushana) · pavansai.kushana@gmail.com
